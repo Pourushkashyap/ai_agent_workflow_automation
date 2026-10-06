@@ -1,0 +1,29 @@
+# Core runtime
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# AI / Agent orchestration
+langchain
+langchain-core
+langgraph
+langchain-google-genai
+langchain-groq
+
+# Excel / data processing
+pandas
+openpyxl
+numpy
+
+# Similarity / text processing
+scikit-learn
+
+# Environment / utilities
+python-dotenv
+tenacity
+
+# Testing
+pytest
+pytest-asyncio
+httpx
